@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "nome": "TechFinance Corp",
+    "logo": "/logos/techfinance.png",
+    "descricao": "Empresa de serviços financeiros com automação IA completa",
+    "areas": ["Financeiro", "Gestão"],
+    "status": "Ativo",
+    "dataInicio": "2024-01-15",
+    "resultado": {
+      "reducaoTempo": "75%",
+      "economiaAnual": "R$ 450.000",
+      "automacoes": 12,
+      "processosAutomatizados": 145
+    },
+    "tecnologias": ["ChatGPT API", "Zapier", "Power BI", "Python"],
+    "contato": "contato@techfinance.com",
+    "metricas": {
+      "satisfacao": 95,
+      "produtividade": 80,
+      "erros": 5,
+      "disponibilidade": 99.8
+    }
+  },
+  {
+    "id": 2,
+    "nome": "MarketPro Digital",
+    "logo": "/logos/marketpro.png",
+    "descricao": "Agência de marketing com automação de campanhas IA",
+    "areas": ["Marketing", "Comercial"],
+    "status": "Ativo",
+    "dataInicio": "2024-02-10",
+    "resultado": {
+      "reducaoTempo": "60%",
+      "economiaAnual": "R$ 320.000",
+      "automacoes": 8,
+      "processosAutomatizados": 98
+    },
+    "tecnologias": ["Claude API", "HubSpot", "Looker", "Node.js"],
+    "contato": "contato@marketpro.com.br",
+    "metricas": {
+      "satisfacao": 92,
+      "produtividade": 75,
+      "erros": 8,
+      "disponibilidade": 99.5
+    }
+  },
+  {
+    "id": 3,
+    "nome": "ServiceMax Solutions",
+    "logo": "/logos/servicemax.png",
+    "descricao": "Empresa de atendimento ao cliente com chatbot IA avançado",
+    "areas": ["Atendimento", "Gestão"],
+    "status": "Ativo",
+    "dataInicio": "2024-03-05",
+    "resultado": {
+      "reducaoTempo": "80%",
+      "economiaAnual": "R$ 580.000",
+      "automacoes": 15,
+      "processosAutomatizados": 230
+    },
+    "tecnologias": ["Gemini API", "Intercom", "Tableau", "Go"],
+    "contato": "contato@servicemax.com.br",
+    "metricas": {
+      "satisfacao": 88,
+      "produtividade": 85,
+      "erros": 6,
+      "disponibilidade": 99.9
+    }
+  },
+  {
+    "id": 4,
+    "nome": "SalesForce Pro",
+    "logo": "/logos/salesforce.png",
+    "descricao": "Plataforma de vendas com IA para prospecção e follow-up",
+    "areas": ["Comercial", "Marketing"],
+    "status": "Ativo",
+    "dataInicio": "2024-01-20",
+    "resultado": {
+      "reducaoTempo": "70%",
+      "economiaAnual": "R$ 420.000",
+      "automacoes": 10,
+      "processosAutomatizados": 167
+    },
+    "tecnologias": ["OpenAI", "Salesforce", "Metabase", "Python"],
+    "contato": "contato@salesforce.com.br",
+    "metricas": {
+      "satisfacao": 94,
+      "produtividade": 82,
+      "erros": 4,
+      "disponibilidade": 99.7
+    }
+  },
+  {
+    "id": 5,
+    "nome": "ManagePlus Corp",
+    "logo": "/logos/manageplus.png",
+    "descricao": "Software de gestão empresarial com dashboards IA",
+    "areas": ["Gestão", "Financeiro"],
+    "status": "Ativo",
+    "dataInicio": "2024-02-28",
+    "resultado": {
+      "reducaoTempo": "65%",
+      "economiaAnual": "R$ 380.000",
+      "automacoes": 9,
+      "processosAutomatizados": 112
+    },
+    "tecnologias": ["Azure OpenAI", "Power BI", "SAP", "C#"],
+    "contato": "contato@manageplus.com.br",
+    "metricas": {
+      "satisfacao": 91,
+      "produtividade": 78,
+      "erros": 7,
+      "disponibilidade": 99.6
+    }
+  }
+]

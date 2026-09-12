@@ -1,0 +1,61 @@
+{
+  "resumoGeral": {
+    "empresasAtivas": 5,
+    "processosTotais": 752,
+    "automacoes": 54,
+    "economiaAnualTotal": "R$ 2.150.000",
+    "satisfacaoMedia": 92,
+    "produtividadeMedia": 80,
+    "disponibilidadeMedia": 99.7
+  },
+  "porArea": {
+    "Financeiro": {
+      "empresas": 2,
+      "automacoes": 12,
+      "processos": 257,
+      "economia": "R$ 830.000",
+      "satisfacao": 93,
+      "produtividade": 79
+    },
+    "Marketing": {
+      "empresas": 2,
+      "automacoes": 8,
+      "processos": 209,
+      "economia": "R$ 700.000",
+      "satisfacao": 93,
+      "produtividade": 78.5
+    },
+    "Gestão": {
+      "empresas": 3,
+      "automacoes": 24,
+      "processos": 169,
+      "economia": "R$ 380.000",
+      "satisfacao": 90,
+      "produtividade": 81
+    },
+    "Comercial": {
+      "empresas": 2,
+      "automacoes": 10,
+      "processos": 167,
+      "economia": "R$ 420.000",
+      "satisfacao": 94,
+      "produtividade": 82
+    },
+    "Atendimento": {
+      "empresas": 1,
+      "automacoes": 15,
+      "processos": 230,
+      "economia": "R$ 580.000",
+      "satisfacao": 88,
+      "produtividade": 85
+    }
+  },
+  "tendencias": {
+    "reducaoTempoMedia": "70%",
+    "errosReduzidos": "85%",
+    "custosPorProcesso": {
+      "antes": "R$ 2.860",
+      "depois": "R$ 858"
+    }
+  }
+}
